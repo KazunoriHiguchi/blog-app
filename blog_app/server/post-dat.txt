@@ -1,0 +1,3 @@
+
+
+{"comment":"タイのアユタヤ遺跡に行きました！","dir":"upload_images/","image":"20fbee7cc0578b6afb4bce241de77ff3","date":1662825936967}
